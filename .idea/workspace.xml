@@ -2,33 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e036cfc2-df51-4b6a-bf6a-ab1ca0281b72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/10.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/11.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/12.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/13.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/14.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/15.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/5.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/6.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/7.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/8.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/img/faces/9.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/controller/EditController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/controller/NewController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/config/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/controller/contactController.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/service/contactDataService.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/views/contacts.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/views/editContact.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/templates/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/templates/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/app/js/views/workbench.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="contactManager.iws" />
@@ -66,8 +39,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.87297297" vertical-offset="204" max-vertical-offset="629">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.58648646" vertical-offset="4" max-vertical-offset="629">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -439,8 +412,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.87297297" vertical-offset="204" max-vertical-offset="629">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.58648646" vertical-offset="4" max-vertical-offset="629">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
           <folding />
         </state>
       </provider>
