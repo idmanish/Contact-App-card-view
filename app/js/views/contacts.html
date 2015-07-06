@@ -1,0 +1,45 @@
+<section>
+    <div>
+        <h2 class="page-header text-center">List of contacts</h2>
+        <p class="text-center">
+            <a href="#/contacts/new" class="btn btn-lg btn-outline">Add Contact</a>
+        </p>
+    </div>
+    <div class="panel-control teal-gradient button-bar" id="user-list-toolbar">
+        <span class="big-text big-text thin condensed" style="padding-left: 10px; padding-right: 15px;">Users</span>
+        <input class="input narrow float-right " ng-model="searchUser.name" placeholder="Search user">
+    </div>
+
+
+
+    <ul>
+        <li class="media col-md-6 col-lg-4" ng-repeat="contact  in contacts | filter:searchUser">
+            <div class="thumbnail">
+                <img class="media-object" src="app/img/faces/{{$index+1}}.jpg">
+            </div>
+            <div class="media-heading">
+                    <h3>
+                        {{contact.name}}
+                        <small>
+                            <a ng-click="selectContact('contacts.edit',{id:contact.id});"><span class="glyphicon glyphicon-pencil"></span></a>
+                            <!--<a ui-sref="contacts.edit({id:contact.id})"><span class="glyphicon glyphicon-pencil"></span></a>-->
+                            <!--<a href="#/contacts/edit/{{contact.id}}"><span class="glyphicon glyphicon-pencil"></span></a>-->
+                            <a href="#/contacts/delete/{{contact.id}}" class="delete-contact">
+                                <span class="glyphicon glyphicon-trash"></span>
+                            </a>
+                        </small>
+                    </h3>
+                </div>
+            <div class="media-body">
+                    <dl>
+                        <dt>Phone Number:</dt>
+                        <dd>{{contact.tel}}</dd>
+                        <dt>Email:</dt>
+                        <dd>{{contact.email}}</dd>
+                    </dl>
+                </div>
+
+        </li>
+    </ul>
+
+</section>
