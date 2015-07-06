@@ -35,7 +35,8 @@ li {
 .media-object {
   width: 128px;
   height: 128px;
-  border-radius: 5px;
+  border-radius: 8px;
+  border-style: outset;
 }
 
 .media .thumbnail {
@@ -60,6 +61,12 @@ li {
 
 .media:first-child {
   margin-top: 15px;
+}
+
+img:hover{
+  -ms-transform: scale(1.5,1.5);
+  -webkit-transform: scale(1.5,1.5);
+  transform: scale(1.5,1.5);
 }
 
 .btn-outline {
