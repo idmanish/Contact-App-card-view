@@ -2,795 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e036cfc2-df51-4b6a-bf6a-ab1ca0281b72" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/% of dogs.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/.bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/.npmignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/.travis.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/views/404.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/views/404.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/views/500.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/views/5xx.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/downloads/files/CCTV大赛上海分赛区.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/CNAME" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/Contributing.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/data/Data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/History.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/MIT-LICENSE.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/benchmarks/Makefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/Readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/Route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/Router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/effects/Tween.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/manipulation/_evalUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/data/accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core/access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/addGetHookIf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/affix.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/event/ajax.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/alert.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/event/alias.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/downloads/files/amazing.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/exports/amd.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/angular/angular.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/angular/angular.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/effects/animatedSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/multi-router/controllers/api_v1.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/multi-router/controllers/api_v2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.all.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.del.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.engine.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.head.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/static-files/public/js/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.listen.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.locals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.options.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.param.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.routes.error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/app.use.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/appveyor.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/arr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes/attr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/auth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/backbone.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/lib/boot.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap-theme.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/dist/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/bower.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/button.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/callbacks.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/carousel.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/class2type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes/classes.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/search/client.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/collapse.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/component.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/concat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/config.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/content-negotiation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/cookie-sessions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/cookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/var/cssExpand.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/curCSS.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/data.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/data/var/data_priv.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/data/var/data_user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/content-negotiation/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/db.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/defaultDisplay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/deferred.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/queue/delay.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/deprecated.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/dimensions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/downloads.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/dropdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/pet/views/edit.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/user/views/edit.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/users/edit.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/effects.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/ejs.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/email.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/support/env.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/error-pages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/error.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/views/error_header.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/event.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/exports.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/express.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/traversing/findFilter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/auth/views/foot.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/views/footer.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/ejs/views/footer.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/var/getStyles.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-constructor/github-view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/exports/global.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/hasOwn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/auth/views/head.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/ejs/views/header.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/views/header.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/static-files/public/hello.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/hiddenVisibleSelectors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/views/index.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/blog/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/views/users/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/posts/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/users/index.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/auth/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/big-view/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/content-negotiation/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/cookie-sessions/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/cookies/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/downloads/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/ejs/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/error-pages/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/expose-data-to-client/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/hello-world/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/markdown/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/multi-router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/multipart/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/main/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/pet/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/user/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/user-pet/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/online/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/params/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/resource/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-map/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-middleware/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/search/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/session/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/static-files/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/vhost/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-constructor/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-locals/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/web-service/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/router/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/markdown/views/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/blog/post/index.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/indexOf.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/middleware/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core/init.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/intro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/var/isHidden.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/dist/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/dist/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/dist/jquery.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/router/layer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/views/layout.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/layout.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-locals/layout.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/user/views/list.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/load.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/auth/views/login.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/manipulation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/markdown.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/middleware.basic.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/benchmarks/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/mocha.opts" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/modal.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/multi-router.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/mvc.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/name.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/default_layout/name.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/name.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/var/nonce.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/offset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/outro.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/backbone/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/expose-data-to-client/views/page.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/params.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core/parseHTML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/parseJSON.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/parseXML.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/auth/pass.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/big-view/pets.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/pnum.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/popover.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/post.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes/prop.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/push.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/middleware/query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/manipulation/var/rcheckableType.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core/ready.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/session/redis.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/regression.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.accepts.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsCharset.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsCharsets.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsEncoding.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsEncodings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsLanguage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.acceptsLanguages.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.baseUrl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.fresh.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.get.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.host.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.hostname.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.ip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.ips.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.is.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.param.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.path.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.protocol.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.query.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.range.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.secure.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.signedCookies.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.stale.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.subdomains.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/req.xhr.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/request.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.append.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.attachment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.clearCookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.cookie.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.download.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.format.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.get.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.json.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.jsonp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.links.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.locals.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.location.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.redirect.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.render.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.send.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.sendFile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.sendStatus.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.set.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.status.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.type.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/res.vary.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/resource.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/response.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/var/rmargin.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/traversing/var/rneedsContext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/rnotwhite.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/var/rnumnonpx.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/route-map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/route-separation.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/router/route.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/var/rquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/core/var/rsingleTag.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/benchmarks/run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/script.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/scrollspy.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/search/search.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/selector-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/selector-sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/selector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/serialize.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/pet/views/show.ejs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/controllers/user/views/show.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/site.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/sizzle/dist/sizzle.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/sizzle/dist/sizzle.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/sizzle/dist/sizzle.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/slice.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/strundefined.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/public/stylesheets/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/mvc/public/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/public/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/static-files/public/css/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/event/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/manipulation/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/support.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/css/swap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/tab.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/support/tmpl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/var/toString.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/tooltip.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/js/transition.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/traversing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/user.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/jade/views/users/user.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-locals/user.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/view-locals/user.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/user.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/default_layout/user.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/fixtures/local_layout/user.tmpl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/ejs/views/users.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/content-negotiation/users.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/attributes/val.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/vhost.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/examples/route-separation/views/users/view.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/lib/view.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/express/test/acceptance/web-service.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/wrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/jquery/src/ajax/xhr.js" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\angular-route\angular-ui-router.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\angular-route\statehelper.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\angular\angular.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\angular\angular.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\CNAME" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\backbone.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\component.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\backbone\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\Gruntfile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap-theme.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap-theme.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap-theme.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap.css.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\css\bootstrap.min.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\js\bootstrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\dist\js\bootstrap.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\fonts\glyphicons-halflings-regular.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\fonts\glyphicons-halflings-regular.svg" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\fonts\glyphicons-halflings-regular.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\fonts\glyphicons-halflings-regular.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\grunt\bs-glyphicons-data-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\grunt\bs-lessdoc-parser.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\grunt\bs-raw-files-generator.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\grunt\shrinkwrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\affix.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\alert.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\button.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\carousel.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\collapse.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\dropdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\modal.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\popover.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\scrollspy.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\tab.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\tooltip.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\js\transition.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\alerts.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\badges.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\bootstrap.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\breadcrumbs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\button-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\buttons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\carousel.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\close.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\code.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\component-animations.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\dropdowns.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\forms.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\glyphicons.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\grid.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\input-groups.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\jumbotron.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\labels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\list-group.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\media.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\mixins.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\modals.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\navbar.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\navs.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\normalize.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\pager.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\pagination.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\panels.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\popovers.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\print.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\progress-bars.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\responsive-utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\scaffolding.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\tables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\theme.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\thumbnails.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\tooltip.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\type.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\utilities.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\variables.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\less\wells.less" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\npm-shrinkwrap.canonical.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\requirements.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\s3_cache.py" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\sauce_browsers.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\bootstrap\test-infra\uncached-npm-install.sh" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\Contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\History.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\appveyor.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\benchmarks\Makefile" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\benchmarks\middleware.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\benchmarks\run" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\auth\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\auth\pass.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\auth\views\foot.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\auth\views\head.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\auth\views\login.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\big-view\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\big-view\pets.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\content-negotiation\db.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\content-negotiation\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\content-negotiation\users.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\cookie-sessions\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\cookies\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\downloads\files\CCTV大赛上海分赛区.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\downloads\files\amazing.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\downloads\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\ejs\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\ejs\views\footer.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\ejs\views\header.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\ejs\views\users.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\views\404.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\views\500.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\views\error_header.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\views\footer.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error-pages\views\index.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\error\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\expose-data-to-client\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\expose-data-to-client\views\page.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\hello-world\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\public\stylesheets\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\views\header.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\views\layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\views\users\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\jade\views\users\user.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\markdown\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\markdown\views\index.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\multi-router\controllers\api_v1.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\multi-router\controllers\api_v2.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\multi-router\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\multipart\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\main\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\pet\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\pet\views\edit.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\pet\views\show.ejs" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\user-pet\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\user\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\user\views\edit.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\user\views\list.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\controllers\user\views\show.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\db.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\lib\boot.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\public\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\views\404.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\mvc\views\5xx.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\online\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\params\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\resource\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-map\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-middleware\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\post.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\public\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\site.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\posts\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\users\edit.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\users\index.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\route-separation\views\users\view.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\search\client.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\search\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\search\search.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\session\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\session\redis.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\static-files\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\static-files\public\css\style.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\static-files\public\hello.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\static-files\public\js\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\vhost\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-constructor\github-view.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-constructor\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-locals\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-locals\layout.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-locals\user.jade" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\view-locals\user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\examples\web-service\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\application.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\express.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\middleware\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\middleware\query.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\request.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\response.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\router\index.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\router\layer.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\router\route.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\lib\view.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\Route.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\Router.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\auth.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\content-negotiation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\cookie-sessions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\cookies.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\downloads.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\ejs.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\error-pages.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\error.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\markdown.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\multi-router.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\mvc.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\params.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\resource.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\route-map.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\route-separation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\vhost.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\acceptance\web-service.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.all.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.del.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.engine.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.head.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.listen.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.locals.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.options.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.param.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.render.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.request.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.response.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.route.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.router.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.routes.error.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\app.use.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\config.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\exports.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\% of dogs.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\.name" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\blog\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\blog\post\index.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\default_layout\name.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\default_layout\user.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\email.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\local_layout\user.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\name.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\name.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\user.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\fixtures\user.tmpl" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\middleware.basic.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\mocha.opts" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\regression.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsCharset.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsCharsets.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsEncoding.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsEncodings.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsLanguage.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.acceptsLanguages.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.baseUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.fresh.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.get.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.host.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.hostname.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.ip.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.ips.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.is.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.param.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.path.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.protocol.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.query.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.range.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.route.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.secure.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.signedCookies.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.stale.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.subdomains.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\req.xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.append.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.attachment.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.clearCookie.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.cookie.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.download.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.format.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.get.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.json.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.links.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.locals.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.location.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.redirect.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.render.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.send.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.sendFile.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.sendStatus.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.set.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.status.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.type.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\res.vary.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\support\env.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\support\tmpl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\express\test\utils.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\MIT-LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\dist\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\dist\jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\dist\jquery.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\jsonp.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\load.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\parseJSON.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\parseXML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\script.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\var\nonce.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\var\rquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\ajax\xhr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes\attr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes\classes.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes\prop.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\attributes\val.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\callbacks.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core\access.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core\init.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core\parseHTML.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core\ready.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\core\var\rsingleTag.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\addGetHookIf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\curCSS.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\defaultDisplay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\hiddenVisibleSelectors.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\swap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\var\cssExpand.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\var\getStyles.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\var\isHidden.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\var\rmargin.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\css\var\rnumnonpx.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\data\Data.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\data\accepts.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\data\var\data_priv.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\data\var\data_user.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\deferred.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\deprecated.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\dimensions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\effects.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\effects\Tween.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\effects\animatedSelector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\event.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\event\ajax.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\event\alias.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\event\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\exports\amd.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\exports\global.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\intro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\manipulation.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\manipulation\_evalUrl.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\manipulation\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\manipulation\var\rcheckableType.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\offset.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\outro.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\queue.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\queue\delay.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\selector-native.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\selector-sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\selector.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\serialize.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\sizzle\dist\sizzle.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\sizzle\dist\sizzle.min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\sizzle\dist\sizzle.min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\traversing.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\traversing\findFilter.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\traversing\var\rneedsContext.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\arr.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\class2type.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\concat.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\hasOwn.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\indexOf.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\pnum.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\push.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\rnotwhite.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\slice.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\strundefined.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\support.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\var\toString.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\jquery\src\wrap.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\.bower.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\CNAME" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\README.md" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\docco.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\images\background.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\images\underscore.png" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-light.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-light.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\aller-light.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\novecento-bold.eot" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\novecento-bold.ttf" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\fonts\novecento-bold.woff" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\public\stylesheets\normalize.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\docs\underscore.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\package.json" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\arrays.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\chaining.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\collections.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\functions.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\index.html" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\objects.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\speed.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\utility.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\vendor\jquery.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\vendor\jslitmus.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\vendor\qunit.css" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\vendor\qunit.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\test\vendor\runner.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\underscore-min.js" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\underscore-min.map" afterPath="" />
-      <change type="DELETED" beforePath="D:\code\contactmanager2\redmart-test\vendor\underscore\underscore.js" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-light.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/aller-light.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/images/background.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/novecento-bold.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/novecento-bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/fonts/novecento-bold.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/images/underscore.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/CNAME" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/Rakefile" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/angular-route/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/arrays.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/chaining.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/collections.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/docco.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/functions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/vendor/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/vendor/jslitmus.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/public/stylesheets/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/objects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/bootstrap/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/vendor/qunit.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/vendor/qunit.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/vendor/runner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/speed.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/angular-route/statehelper.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/underscore-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/underscore-min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/docs/underscore.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/underscore.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/underscore/test/utility.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
     </list>
     <ignored path="contactManager.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -824,20 +81,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.346154" vertical-offset="4" max-vertical-offset="629">
-              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+            <state vertical-scroll-proportion="0.4027027" vertical-offset="208" max-vertical-offset="629">
+              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="rmargin.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="rmargin.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/vendor/jquery/src/css/var/rmargin.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="396">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
               <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
               <folding />
             </state>
@@ -987,6 +244,72 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redmart-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redmart-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contactManager" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="redmart-test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1198,18 +521,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
+    <entry file="file://$PROJECT_DIR$/public/vendor/jquery/src/css/var/rmargin.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.346154" vertical-offset="4" max-vertical-offset="629">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/vendor/jquery/src/css/var/rmargin.js">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12878788" vertical-offset="0" max-vertical-offset="396">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.4027027" vertical-offset="208" max-vertical-offset="629">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
           <folding />
         </state>
       </provider>
