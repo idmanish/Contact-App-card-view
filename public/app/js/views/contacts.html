@@ -10,10 +10,8 @@
         <input class="input narrow float-right " ng-model="searchUser.name" placeholder="Search user">
     </div>
 
-
-
     <ul>
-        <li class="media col-md-6 col-lg-4" ng-repeat="contact  in contacts | filter:searchUser">
+        <li class="media col-md-6 col-lg-4" ng-repeat="contact  in contacts  | filter:searchUser track by $index">
             <div class="thumbnail">
                 <img class="media-object" src="app/img/faces/{{$index+1}}.jpg">
             </div>
@@ -21,10 +19,10 @@
                     <h3>
                         {{contact.name}}
                         <small>
-                            <a ng-click="selectContact('contacts.edit',{id:contact.id});"><span class="glyphicon glyphicon-pencil"></span></a>
-                            <!--<a ui-sref="contacts.edit({id:contact.id})"><span class="glyphicon glyphicon-pencil"></span></a>-->
-                            <!--<a href="#/contacts/edit/{{contact.id}}"><span class="glyphicon glyphicon-pencil"></span></a>-->
-                            <a href="#/contacts/delete/{{contact.id}}" class="delete-contact">
+                            <a ng-click="selectContact('contacts.edit',{id:contact.id});">
+                                <span class="glyphicon glyphicon-pencil"></span>
+                            </a>
+                            <a ng-click="deleteContact(contact.id)" class="delete-contact">
                                 <span class="glyphicon glyphicon-trash"></span>
                             </a>
                         </small>

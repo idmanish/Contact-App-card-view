@@ -8,10 +8,12 @@
 
 'use strict';
 contactApp
-    .controller('NewController',['$scope','contactDataService', function($scope,contactDataService){
-        $scope.contact = { isNew: true };
-        console.log("New Controller");
-
+    .controller('NewController', ['$scope','$location', 'contactDataService', function ($scope,$location, contactDataService) {
+        $scope.contact = {isNew: true, email: '',tel:''};
+        $scope.save = function () {
+            contactDataService.addContact($scope.contact);
+            $location.path('contacts');
+        }
     }]);
 
 

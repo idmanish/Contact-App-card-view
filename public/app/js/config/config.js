@@ -3,7 +3,7 @@
 contactApp
     .config(['$stateProvider', '$urlRouterProvider',
         function ($stateProvider, $urlRouterProvider) {
-            $urlRouterProvider.otherwise('/contacts');
+            $urlRouterProvider.otherwise('/unsupportedroute');
             $stateProvider.state('contacts', {
                 url: "/contacts",
                 abstract:true,

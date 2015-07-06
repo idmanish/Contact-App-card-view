@@ -62,9 +62,38 @@ contactApp
             }
         }
 
+        function indexOf(id){
+            var index = -1;
+            for(var i=0;i<contacts.length;i++){
+                if(contacts[i]["id"]===id){
+                    index = i;
+                }
+            }
+            return index;
+        }
+
+        function addContact(contact){
+            var index = indexOf(contact.id);
+            if(index>=0){
+                contacts.splice(index,1,contact);
+            }else{
+                contacts.push(contact);
+            }
+        }
+
+        function deleteContact(id){
+            for(var i=0;i<contacts.length;i++){
+                if(contacts[i]["id"]===id){
+                    contacts.splice(i,1);
+                }
+            }
+        }
+
         return {
             contactsData: contacts,
             setCurrentContact: setCurrentContact,
-            getCurrentContact: getCurrentContact
+            getCurrentContact: getCurrentContact,
+            addContact:addContact,
+            deleteContact:deleteContact
         }
     });

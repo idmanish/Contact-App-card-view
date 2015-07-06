@@ -16,6 +16,10 @@ contactApp
             $state.go(path, params);
         }
 
+        $scope.deleteContact = function(id){
+            contactDataService.deleteContact(id);
+        }
+
     }]);
 
 
