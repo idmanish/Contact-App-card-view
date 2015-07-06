@@ -19,15 +19,15 @@ contactApp
                 },
                 {
                     id: 2,
-                    name : 'Burhan',
+                    name : 'Sachin',
                     tel: '+91 9620207000',
-                    email: 'Burhan@redmart.com'
+                    email: 'Sachin@redmart.com'
                 },
                 {
                     id: 3,
-                    name : 'Ritu',
+                    name : 'Rohit',
                     tel: '+91 9187748199',
-                    email: 'rituTest@redmart.com'
+                    email: 'Rohit@redmart.com'
                 },
                 {
                     id: 4,
