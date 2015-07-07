@@ -15,36 +15,42 @@ contactApp
                     id: 1,
                     name : 'Manish',
                     tel: '+91 9620207851',
-                    email: 'idmanish@gmail.com'
+                    email: 'idmanish@gmail.com',
+                    imgUrl:'1.jpg'
                 },
                 {
                     id: 2,
                     name : 'Sachin',
                     tel: '+91 9620207000',
+                    imgUrl:'2.jpg',
                     email: 'Sachin@redmart.com'
                 },
                 {
                     id: 3,
                     name : 'Rohit',
                     tel: '+91 9187748199',
+                    imgUrl:'3.jpg',
                     email: 'Rohit@redmart.com'
                 },
                 {
                     id: 4,
                     name : 'Test User',
                     tel: '+91 7029895145',
+                    imgUrl:'4.jpg',
                     email: 'testuser@gmail.com'
                 },
                 {
                     id: 5,
                     name : 'Redmart Admin',
                     tel: '+91 3182926700',
+                    imgUrl:'5.jpg',
                     email: 'admin@redmart.com'
                 },
                 {
                     id: 6,
                     name : 'Sanjeev',
                     tel: '+91 8035579815',
+                    imgUrl:'6.jpg',
                     email: 'sanjeev@redmart.com'
                 }
             ]
