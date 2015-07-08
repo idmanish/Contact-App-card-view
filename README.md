@@ -1,36 +1,14 @@
-# node-js-getting-started
+ its first cut, I will improve it further.
+Specially CSS part, where I have not done much till now.
+There are some known issue, which needs to be fixed
 
-A barebones Node.js app using [Express 4](http://expressjs.com/).
+Key Points:-
+1) All data coming from services(applied Separation of Concern design principle, data is separated from business logic, if time permits I will get this data from firebase, so it will be persistent.)
+2) Code is separated among separate modules
+3) State Machine is used for routes.
+4) Search feature is provided, so If contact list grows , particular user can be searched.
+5) Main page is divided in 3 views using ui-view & $stateprovider
+6) Data is injected as dependency in controllers
 
-This application support the [Getting Started with Node on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
-## Running Locally
-
-Make sure you have [Node.js](http://nodejs.org/) and the [Heroku Toolbelt](https://toolbelt.heroku.com/) installed.
-
-```sh
-$ git clone git@github.com:heroku/node-js-getting-started.git # or clone your own fork
-$ cd node-js-getting-started
-$ npm install
-$ npm start
-```
-
-Your app should now be running on [localhost:5000](http://localhost:5000/).
-
-## Deploying to Heroku
-
-```
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-## Documentation
-
-For more information about using Node.js on Heroku, see these Dev Center articles:
-
-- [Getting Started with Node.js on Heroku](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
-- [Heroku Node.js Support](https://devcenter.heroku.com/articles/nodejs-support)
-- [Node.js on Heroku](https://devcenter.heroku.com/categories/nodejs)
-- [Best Practices for Node.js Development](https://devcenter.heroku.com/articles/node-best-practices)
-- [Using WebSockets on Heroku with Node.js](https://devcenter.heroku.com/articles/node-websockets)
+Demo: http://redmart-test.herokuapp.com/#/contacts
